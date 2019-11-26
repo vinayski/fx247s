@@ -1,5 +1,7 @@
 ---
 
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/vinayski/fx247s.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vinayski/fx247s/context:javascript)
+
 ## Get started
 
 Install the dependencies...
